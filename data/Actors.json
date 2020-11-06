@@ -2,7 +2,7 @@
 null,
 {"id":1,"battlerName":"SumitoTemp_Battler","characterIndex":0,"characterName":"sumito_av_test1","classId":6,"equips":[2,0,0,3,0],"faceIndex":3,"faceName":"Evil","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sumito","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"Actor2_8","characterIndex":4,"characterName":"People3","classId":3,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"People3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Internet Historian","nickname":"Historian","note":"","profile":""},
-{"id":3,"battlerName":"SF_Actor3_7","characterIndex":3,"characterName":"SF_Monster","classId":7,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"SF_Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Alex","nickname":"Alex","note":"","profile":""},
+{"id":3,"battlerName":"SF_Actor3_7","characterIndex":0,"characterName":"Nature","classId":7,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"Alex","nickname":"Alex","note":"","profile":""},
 {"id":4,"battlerName":"SF_Actor1_7","characterIndex":6,"characterName":"SF_Actor1","classId":5,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"SF_Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ordinary Guy","nickname":"Ordinary Guy","note":"","profile":""},
 {"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
