@@ -117,7 +117,7 @@
 		"pitch": 100,
 		"volume": 90
 	},
-	"editMapId": 6,
+	"editMapId": 8,
 	"elements": [
 		"",
 		"Physical",
@@ -345,7 +345,7 @@
 	"startY": 4,
 	"switches": [
 		"",
-		"",
+		"sewer1boulderdrop",
 		"",
 		"",
 		"",
@@ -558,7 +558,7 @@
 		"",
 		""
 	],
-	"versionId": 63944657,
+	"versionId": 96003025,
 	"victoryMe": {
 		"name": "Victory1",
 		"pan": 0,
@@ -581,8 +581,8 @@
 		"Spear"
 	],
 	"windowTone": [
-		102,
-		-51,
+		85,
+		-85,
 		-102,
 		0
 	]
