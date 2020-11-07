@@ -411,8 +411,8 @@
 			"Max HP",
 			"Max MP",
 			"Attack",
-			"Defense",
-			"M.Attack",
+			"Chonkiness",
+			"Spiciness",
 			"M.Defense",
 			"Agility",
 			"Luck",
@@ -558,7 +558,7 @@
 		"",
 		""
 	],
-	"versionId": 96003025,
+	"versionId": 98729400,
 	"victoryMe": {
 		"name": "Victory1",
 		"pan": 0,
@@ -581,8 +581,8 @@
 		"Spear"
 	],
 	"windowTone": [
-		85,
-		-85,
+		102,
+		-51,
 		-102,
 		0
 	]
