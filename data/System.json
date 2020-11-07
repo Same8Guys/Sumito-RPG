@@ -411,8 +411,8 @@
 			"Max HP",
 			"Max MP",
 			"Attack",
-			"Defense",
-			"M.Attack",
+			"Chonkiness",
+			"Spiciness",
 			"M.Defense",
 			"Agility",
 			"Luck",
@@ -581,8 +581,8 @@
 		"Spear"
 	],
 	"windowTone": [
-		85,
-		-85,
+		102,
+		-51,
 		-102,
 		0
 	]
