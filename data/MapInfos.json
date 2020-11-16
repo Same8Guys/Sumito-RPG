@@ -1,12 +1,12 @@
 [
 null,
 {"id":1,"expanded":true,"name":"StudioApartment","order":2,"parentId":3,"scrollX":720.8888888888889,"scrollY":427.55555555555554},
-{"id":2,"expanded":true,"name":"Small Town","order":7,"parentId":0,"scrollX":832,"scrollY":960},
+{"id":2,"expanded":true,"name":"Small Town","order":7,"parentId":0,"scrollX":728,"scrollY":960},
 {"id":3,"expanded":true,"name":"OutsideSumitosHouse","order":1,"parentId":0,"scrollX":720.8888888888889,"scrollY":427.55555555555554},
 {"id":4,"expanded":true,"name":"Sewer 2F","order":4,"parentId":7,"scrollX":720.8888888888889,"scrollY":427.55555555555554},
 null,
 null,
 {"id":7,"expanded":true,"name":"Sewer 1F","order":3,"parentId":0,"scrollX":720.8888888888889,"scrollY":427.55555555555554},
-{"id":8,"expanded":true,"name":"Sewer B1","order":5,"parentId":0,"scrollX":720.8888888888889,"scrollY":498.6666666666667},
-{"id":9,"expanded":true,"name":"Sewer B2F","order":6,"parentId":8,"scrollX":816,"scrollY":640}
+{"id":8,"expanded":true,"name":"Sewer B1","order":5,"parentId":0,"scrollX":720.8888888888889,"scrollY":427.55555555555554},
+{"id":9,"expanded":true,"name":"Sewer B2F","order":6,"parentId":8,"scrollX":720.8888888888889,"scrollY":427.55555555555554}
 ]
