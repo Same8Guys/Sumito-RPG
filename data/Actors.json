@@ -1,8 +1,8 @@
 [
 null,
-{"id":1,"battlerName":"SumitoNude_Battler","characterIndex":0,"characterName":"sumito_nude","classId":6,"equips":[5,31,57,6,75],"faceIndex":0,"faceName":"SumitoFaces","traits":[],"initialLevel":5,"maxLevel":99,"name":"Sumito","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"Actor2_8","characterIndex":4,"characterName":"People3","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"IHFace","traits":[],"initialLevel":1,"maxLevel":99,"name":"Internet Historian","nickname":"Historian","note":"","profile":""},
-{"id":3,"battlerName":"AlexBattler","characterIndex":0,"characterName":"Alex","classId":3,"equips":[34,43,70,6,99],"faceIndex":5,"faceName":"Snapchat-1601301151-removebg-preview","traits":[],"initialLevel":7,"maxLevel":99,"name":"Alex","nickname":"Alex","note":"","profile":""},
+{"id":1,"battlerName":"SumitoNude_Battler","characterIndex":0,"characterName":"sumito_nude","classId":6,"equips":[1,0,0,2,100],"faceIndex":0,"faceName":"SumitoFaces","traits":[],"initialLevel":5,"maxLevel":99,"name":"Sumito","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor2_8","characterIndex":4,"characterName":"People3","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"IHFace","traits":[],"initialLevel":1,"maxLevel":99,"name":"Internet Historian","nickname":"Historian","note":"","profile":""},
+{"id":3,"battlerName":"AlexBattler","characterIndex":0,"characterName":"Alex","classId":3,"equips":[33,0,66,3,94],"faceIndex":5,"faceName":"Snapchat-1601301151-removebg-preview","traits":[],"initialLevel":7,"maxLevel":99,"name":"Alex","nickname":"Alex","note":"","profile":""},
 {"id":4,"battlerName":"SF_Actor1_7","characterIndex":6,"characterName":"SF_Actor1","classId":5,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"SF_Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ordinary Guy","nickname":"Ordinary Guy","note":"","profile":""},
 {"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
