@@ -14,6 +14,6 @@ null,
 {"id":12,"expanded":false,"name":"MemeShop","order":7,"parentId":5,"scrollX":447.2727272727273,"scrollY":511.0909090909091},
 {"id":13,"expanded":true,"name":"Dankest Dungeon 2F-B","order":12,"parentId":9,"scrollX":1081.3333333333333,"scrollY":630.6666666666666},
 {"id":14,"expanded":false,"name":"Ice Room","order":14,"parentId":0,"scrollX":1081.3333333333333,"scrollY":630.6666666666666},
-null,
-{"id":16,"expanded":false,"name":"ChinaTown","order":15,"parentId":0,"scrollX":1133.3333333333333,"scrollY":1833.3333333333333}
+{"id":15,"expanded":false,"name":"ChinaCastleInterior","order":16,"parentId":16,"scrollX":1081.3333333333333,"scrollY":630.6666666666666},
+{"id":16,"expanded":true,"name":"ChinaTown","order":15,"parentId":0,"scrollX":1133.3333333333333,"scrollY":630.6666666666666}
 ]
